@@ -5,13 +5,13 @@ nav ul {
   list-style-type: none;
   display: flex;
   justify-content: center;
-  gap:10px;
+
 
 }
 
-nav li {
+/*nav li {
   margin: 0 15px;
-}
+}*/
 
 nav a {
   color: red;
